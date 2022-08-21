@@ -32,6 +32,13 @@
   height: 20px;
 }
 
+.country-code{
+  font-size: 10px;
+  margin-bottom: 18px;
+  margin-left: 4px;
+  color: gray;
+}
+
 .middle-section {
   flex: 1;
   margin-left: 70px;
